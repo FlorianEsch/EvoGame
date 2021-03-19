@@ -1,0 +1,15 @@
+C:\Users\Flo\source\repos\EvoLife\EvoLife\bin\Debug\EvoLife.exe.config
+C:\Users\Flo\source\repos\EvoLife\EvoLife\bin\Debug\EvoLife.exe
+C:\Users\Flo\source\repos\EvoLife\EvoLife\bin\Debug\EvoLife.pdb
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\MainWindow.g.cs
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\App.g.cs
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife_MarkupCompile.cache
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife_MarkupCompile.lref
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\MainWindow.baml
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife.g.resources
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife.Properties.Resources.resources
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife.csproj.GenerateResource.cache
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife.csproj.CoreCompileInputs.cache
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife.exe
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife.pdb
+C:\Users\Flo\source\repos\EvoLife\EvoLife\obj\Debug\EvoLife.csprojAssemblyReference.cache
